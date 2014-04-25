@@ -1,0 +1,85 @@
+@font-face {
+		font-family: "Georgia Pro";
+		src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/3764b2f7-4b10-4419-998b-d39c48433307") format("truetype");
+		}
+@font-face {
+		font-family: "Georgia Pro";
+		src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/896c874c-a103-4571-834c-37d16381ca79");
+		}
+@font-face {
+		font-family: "Georgia Pro";
+		src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/3/708d476d-deaf-4078-b266-281f94ced1bd") format("woff");
+		}
+@font-face {
+		font-family: "Georgia Pro Light";
+		src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/105055f3-f763-4e94-bffe-5f95efab31ed") format("truetype");
+		}
+@font-face {
+		font-family: "Georgia Pro Light";
+		src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/7afcd7b2-5168-4d12-882a-63ddb19a5b05");
+		}
+@font-face {
+		font-family: "Georgia Pro Light";
+		src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/3/d2f5587a-e633-4a69-b0b8-e9d986bbcb2d") format("woff");
+		}
+@font-face {
+		 font-family: "Essays 1743";
+		 src: url('css/essays1743-webfont.ttf') format('truetype'); /* TTF file for CSS3 browsers */
+		}
+@font-face {
+		 font-family: "Essays 1743";
+		 src: url('css/essays1743-webfont.eot'); /* EOT file for IE */
+		}
+
+/* Reset */
+	* { font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; margin: 0; outline: 0; padding: 0; vertical-align: baseline; }
+	body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-align: left; position: relative; }		
+	
+body {
+	margin-top: 2%;
+	font-family: "Georgia Pro", "Helvetica neue", Helvetica;
+	font-size: 23px;
+	font-weight: 350;
+	}
+
+img {
+	color: #fff;
+	position: relative; 
+	left: 27%;
+	max-height:350px;
+	}
+	
+article {
+	width: 720px;
+	padding: 30px;
+	line-height: 32px;
+	margin: 0 auto;
+	}
+
+a:link, a:visited {
+		text-decoration: underline;
+		color: #ff4411;
+		}
+
+a:hover, a:active, a:focus  {
+		background-color: #ff4411;
+		text-decoration: none;
+		color: #fff;
+		}
+	
+h1 {
+	font-family: "Essays 1743";
+	font-size: 180%;
+	padding-bottom:20px;
+	}
+
+h2 {
+	font-family: "Essays 1743";
+	font-size: 120%;
+	padding-top:10px;
+	padding-bottom:10px;
+	}
+	
+p {
+	}
+
