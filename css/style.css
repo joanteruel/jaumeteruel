@@ -24,11 +24,11 @@
 		}
 @font-face {
 		 font-family: "Essays 1743";
-		 src: url('css/essays1743-webfont.ttf') format('truetype'); /* TTF file for CSS3 browsers */
+		 src: url('/css/essays1743-webfont.ttf') format('truetype'); /* TTF file for CSS3 browsers */
 		}
 @font-face {
 		 font-family: "Essays 1743";
-		 src: url('css/essays1743-webfont.eot'); /* EOT file for IE */
+		 src: url('/css/essays1743-webfont.eot'); /* EOT file for IE */
 		}
 
 /* Reset */
