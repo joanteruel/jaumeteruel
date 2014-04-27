@@ -24,9 +24,6 @@ Head of the River Race, London 2014.
 ![][9]
 Wrigley Field, Chicago 2012.
 
-![][10]
-Playing with Magic, Los Angeles 2011.
-
 ![][11]
 Lost in Rome, August 2010.
 
