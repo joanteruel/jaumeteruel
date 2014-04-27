@@ -36,7 +36,7 @@ Celebrating my first birthday with [Jaume Teruel][4], December 1980.
 
 &#169; 2014 Jaume Teruel. Under [Creative Commons][8] license.
 
-   [1]: /images/me.png
+   [1]: /images/me_small.png
    [2]: http://www.lerion.com
    [3]: http://www.flickr.com/photos/lerion
    [4]: http://twitter.com/jaumeteruel
