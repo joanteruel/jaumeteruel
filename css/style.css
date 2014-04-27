@@ -30,6 +30,44 @@
 		 font-family: "Essays 1743";
 		 src: url('/css/essays1743-webfont.eot'); /* EOT file for IE */
 		}
+@font-face {
+		 font-family: "Franklin ITC Pro Bold";
+		 src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/a2664c9a-d783-4071-86ec-478136d31525") format("truetype");
+		 font-style: normal;
+		 font-weight: bold;
+		}
+@font-face {
+		 font-family: "Franklin ITC Pro Light";
+		 src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/da09314a-cc28-4c97-b676-6a14a3bb12d7") format("truetype");
+		 font-style: normal;
+		 font-weight: normal;
+		}
+@font-face {
+		 font-family: "Franklin ITC Pro Bold";
+		 src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/0b12aa52-bb8a-421b-a962-e81d85d29404");
+		 font-style: normal;
+		 font-weight: bold;
+		}
+@font-face {
+		 font-family: "Franklin ITC Pro Light";
+		 src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/18038f3c-e3a9-4a58-b8ee-2e0d2f4dcb16");
+		 font-style: normal;
+		 font-weight: normal;
+		}
+@font-face {
+		 font-family: "Franklin ITC Pro Bold";
+		 src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/3/eaaadd6b-b1b9-43c8-9cbd-35a67dc05d46") format("woff");
+		 font-style: normal;
+		 font-weight: bold;
+		}
+@font-face {
+		 font-family: "Franklin ITC Pro Light";
+		 src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/3/de35a79a-63f7-4f98-ba83-ee606a78ab78") format("woff");
+		 font-style: normal;
+		 font-weight: normal;
+		}
+
+
 
 /* Reset */
 	* { font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; margin: 0; outline: 0; padding: 0; vertical-align: baseline; }
@@ -69,13 +107,13 @@ a:hover, a:active, a:focus  {
 		}
 	
 h1 {
-	font-family: "Essays 1743";
+	font-family: "Franklin ITC Pro Bold", "Essays 1743";
 	font-size: 180%;
 	padding-bottom:30px;
 	}
 
 h2 {
-	font-family: "Essays 1743";
+	font-family: "Franklin ITC Pro Bold", "Essays 1743";
 	font-size: 120%;
 	padding-top:10px;
 	padding-bottom:20px;
