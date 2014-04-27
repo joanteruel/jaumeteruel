@@ -28,13 +28,17 @@ Ergometer championship in Barcelona. June 2013.
 Go Cubs! Chicago 2012.
 
 ![][11]
-Stasi Museum in Berlin. December, 2012.
+Playing with Magic, Los Angeles 2011.
 
-![][14]
+![][12]
+Lost in Rome, 2010.
+
+![][13]
 Celebrating my first birthday with [Jaume Teruel][4], December 1980.
 
 
-&#169; 2014 Jaume Teruel. Under [Creative Commons][8] license.
+
+&#169; 2014 Jaume Teruel. Under [Creative Commons][14] license.
 
    [1]: /images/me_small.png
    [2]: http://www.lerion.com
@@ -46,6 +50,8 @@ Celebrating my first birthday with [Jaume Teruel][4], December 1980.
    [8]: https://farm4.staticflickr.com/3694/13887135686_3141d3d1cd_c.jpg
    [9]: https://farm6.staticflickr.com/5445/9057191543_99cd284bbb_c.jpg
    [10]: https://farm9.staticflickr.com/8475/8078266107_fd8be79e4f_c.jpg
-   [11]: https://farm6.staticflickr.com/5331/14021790985_b8667f40c7_c.jpg
+   [11]: https://farm7.staticflickr.com/6195/6086160477_7f664d1765_b.jpg   
+   [12]: https://farm6.staticflickr.com/5331/14021790985_b8667f40c7_c.jpg
+   [13]: https://farm5.staticflickr.com/4135/4893713781_dbf4650d81_b.jpg
    [14]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
