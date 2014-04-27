@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# HI, MY NAME IS JAUME TERUEL.
+# Hi, my name is Jaume Teruel.
 
 ![][1]
 
