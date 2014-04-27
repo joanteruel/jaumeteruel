@@ -22,13 +22,13 @@ By the way, welcome to my personal website.
 Head of the River Race, London 2014.
 
 ![][9]
-Go Cubs! Chicago 2012.
+Wrigley Field, Chicago 2012.
 
 ![][10]
 Playing with Magic, Los Angeles 2011.
 
 ![][11]
-Lost in Rome, 2010.
+Lost in Rome, August 2010.
 
 ![][12]
 Celebrating my first birthday with [Jaume Teruel][4], December 1980.
