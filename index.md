@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Jaume Teruel
 ---
 # Hi, my name is Jaume Teruel.
 
@@ -18,7 +18,21 @@ By the way, welcome to my personal website.
 
 ## More Pictures of me
 
- 
+![][8]
+Head of the River Race, London 2014.
+
+![][9]
+Ergometer championship in Barcelona. June 2013.
+
+![][10]
+Go Cubs! Chicago 2012.
+
+![][11]
+Stasi Museum in Berlin. December, 2012.
+
+![][14]
+Celebrating my first birthday with [Jaume Teruel][4], December 1980.
+
 
 &#169; 2014 Jaume Teruel. Under [Creative Commons][8] license.
 
@@ -29,5 +43,9 @@ By the way, welcome to my personal website.
    [5]: http://www.vimeo.com/lerion/videos
    [6]: http://www.facebook.com/jaume.teruel
    [7]: http://es.linkedin.com/in/jaumeteruel
-   [8]: http://creativecommons.org/licenses/by-nc-sa/3.0/
+   [8]: https://farm4.staticflickr.com/3694/13887135686_3141d3d1cd_c.jpg
+   [9]: https://farm6.staticflickr.com/5445/9057191543_99cd284bbb_c.jpg
+   [10]: https://farm9.staticflickr.com/8475/8078266107_fd8be79e4f_c.jpg
+   [11]: https://farm6.staticflickr.com/5331/14021790985_b8667f40c7_c.jpg
+   [14]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
