@@ -29,8 +29,6 @@
 @font-face {
 		 font-family: "Franklin ITC Pro Bold";
 		 src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/3/eaaadd6b-b1b9-43c8-9cbd-35a67dc05d46") format("woff");
-		 font-style: normal;
-		 font-weight: bold;
 		}
 
 
@@ -42,7 +40,7 @@
 body {
 	font-family: "Georgia Pro", "Helvetica neue", Helvetica;
 	font-size: 23px;
-	font-weight: 350;
+	font-weight: 390;
 	margin-top: 4%;
 	margin-bottom: 4%;
 	}
