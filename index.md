@@ -31,11 +31,11 @@ Playing with Magic, Los Angeles 2011.
 Lost in Rome, August 2010.
 
 ![][12]
-Celebrating my first birthday with [Jaume Teruel][4], December 1980.
+Celebrating my first birthday with [Joan Teruel][13], December 1980.
 
 
 
-&#169; 2014 Jaume Teruel. Under [Creative Commons][13] license.
+&#169; 2014 Jaume Teruel. Under [Creative Commons][14] license.
 
    [1]: /images/me_small.png
    [2]: http://www.lerion.com
@@ -49,5 +49,6 @@ Celebrating my first birthday with [Jaume Teruel][4], December 1980.
    [10]: https://farm7.staticflickr.com/6195/6086160477_7f664d1765_b.jpg   
    [11]: https://farm5.staticflickr.com/4135/4893713781_dbf4650d81_b.jpg
    [12]: https://farm6.staticflickr.com/5331/14021790985_b8667f40c7_c.jpg
-   [13]: http://creativecommons.org/licenses/by-nc-sa/3.0/
+   [13]: http://www.joanteruel.com
+   [14]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
