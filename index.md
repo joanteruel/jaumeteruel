@@ -22,7 +22,7 @@ By the way, welcome to my personal website.
 Head of the River Race, London 2014.
 
 ![][9]
-Wrigley Field, Chicago 2012.
+First baseball game at Wrigley Field, Chicago 2012.
 
 ![][10]
 A brief moment on the brink of the abyss, Grand Canyon 2011.
