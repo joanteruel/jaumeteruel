@@ -24,14 +24,17 @@ Head of the River Race, London 2014.
 ![][9]
 Wrigley Field, Chicago 2012.
 
+![][10]
+A brief moment on the brink of the abyss, Grand Canyon 2011.
+
 ![][11]
-Mountain Bike in Montijo, March 1997.
+Mountain Biking in Montijo, March 1997.
 
 ![][12]
 Celebrating my first birthday with [Joan Teruel][13], December 1980.
-
-
-
+  
+  
+  
 &#169; 2014 Jaume Teruel. Under [Creative Commons][14] license.
 
    [1]: /images/me_big.png
@@ -43,7 +46,7 @@ Celebrating my first birthday with [Joan Teruel][13], December 1980.
    [7]: http://es.linkedin.com/in/jaumeteruel
    [8]: https://farm4.staticflickr.com/3694/13887135686_3141d3d1cd_c.jpg
    [9]: https://farm9.staticflickr.com/8475/8078266107_fd8be79e4f_c.jpg
-   [10]: https://farm7.staticflickr.com/6195/6086160477_7f664d1765_b.jpg   
+   [10]: https://farm7.staticflickr.com/6062/6087256898_6961082fe8_b.jpg
    [11]: https://farm8.staticflickr.com/7208/13889188038_1a39e15c9a_c.jpg
    [12]: https://farm6.staticflickr.com/5331/14021790985_b8667f40c7_c.jpg
    [13]: http://www.joanteruel.com
