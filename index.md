@@ -16,7 +16,7 @@ You can take a look at my [blog][2], view the [pictures][3] posted on Flickr, vi
 
 By the way, welcome to my personal website.
 
-## Pictures of me
+## Some Pictures of me
 
 ![][8]
 Head of the River Race, London 2014.
