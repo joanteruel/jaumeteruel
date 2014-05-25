@@ -72,6 +72,7 @@ a:hover, a:active, a:focus  {
 h1 {
 	font-family: "Helvetica neue", Helvetica, arial, "Franklin ITC Pro Bold", "Essays 1743";
 	font-size: 48px;
+font-weight: bold;
 	padding-bottom:0.6em;
 	}
 
@@ -79,6 +80,7 @@ h2 {
 	font-family: "Helvetica neue", Helvetica, arial, "Franklin ITC Pro Bold", "Essays 1743";
 	font-size: 36px;
 	padding-top:0.6em;
+font-weight: bold;
 	padding-bottom:0.8em;
 	}
 	
