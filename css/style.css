@@ -38,7 +38,7 @@
 	body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-align: left; position: relative; }		
 	
 body {
-	font-family: "Georgia Pro", "Helvetica neue", Helvetica;
+	font-family: "Helvetica neue", Helvetica, arial, "Georgia Pro";
 	font-size: 23px;
 	margin-top: 4%;
 	margin-bottom: 4%;
