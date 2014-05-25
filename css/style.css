@@ -71,13 +71,13 @@ a:hover, a:active, a:focus  {
 	
 h1 {
 	font-family: "Franklin ITC Pro Bold", "Essays 1743";
-	font-size: 220%;
+	font-size: 48px;
 	padding-bottom:0.6em;
 	}
 
 h2 {
 	font-family: "Franklin ITC Pro Bold", "Essays 1743";
-	font-size: 170%;
+	font-size: 36px;
 	padding-top:0.6em;
 	padding-bottom:0.8em;
 	}
