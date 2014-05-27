@@ -1,11 +1,6 @@
 
-/* Reset */
-	* { font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; margin: 0; outline: 0; padding: 0; vertical-align: baseline; }
-	body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-align: left; position: relative; }		
-
-
 body {
-	font-family: "Helvetica neue", Helvetica, arial;
+	font-family: Helvetica, arial;
 	margin: 0;
 	margin: 0;
 	}
@@ -69,4 +64,11 @@ img {
 li {
 	font-size: 20px;
 	line-height: 1.6em;
-}
+	}
+
+
+.vine-embed {
+	margin-bottom: 1em;
+	display: block;
+	margin: 0 auto;
+	}
