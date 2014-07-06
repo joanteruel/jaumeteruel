@@ -21,6 +21,9 @@ By the way, welcome to my personal website.
 ![][8]
 Head of the River Race, London 2014.
 
+![][15]
+Ergometer Championship, Barcelona 2013.
+
 ![][9]
 First baseball game at Wrigley Field, Chicago 2012.
 
@@ -48,4 +51,5 @@ Celebrating my first birthday with [Joan Teruel][13], December 1980.
    [12]: https://farm6.staticflickr.com/5331/14021790985_b8667f40c7_c.jpg
    [13]: http://www.joanteruel.com
    [14]: http://creativecommons.org/licenses/by-nc-sa/3.0/
+   [15]: https://farm3.staticflickr.com/2908/14401273620_fe93721708_c.jpg
 
