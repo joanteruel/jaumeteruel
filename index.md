@@ -27,6 +27,9 @@ Ergometer Championship, Barcelona 2013.
 ![][9]
 First baseball game at Wrigley Field, Chicago 2012.
 
+![][16]
+How to do a handstand, Washington 2012.
+
 ![][10]
 A brief moment on the brink of the abyss, Grand Canyon 2011.
 
@@ -52,4 +55,5 @@ Celebrating my first birthday with [Joan Teruel][13], December 1980.
    [13]: http://www.joanteruel.com
    [14]: http://creativecommons.org/licenses/by-nc-sa/3.0/
    [15]: https://farm3.staticflickr.com/2908/14401273620_fe93721708_c.jpg
+   [16]: https://farm9.staticflickr.com/8180/8057394807_12f61e28e7_c.jpg
 
