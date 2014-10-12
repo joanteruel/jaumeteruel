@@ -40,7 +40,7 @@ Mountain Biking in Montijo, March 1997.
 Celebrating my first birthday with [Joan Teruel][13], December 1980.
 
 
-   [1]: /images/jaumeteruel_white_circle_png_720.png
+   [1]: /images/jaumeteruel_white_circle_720_png.png
    [2]: http://www.lerion.com
    [3]: http://www.flickr.com/photos/lerion
    [4]: http://twitter.com/jaumeteruel
