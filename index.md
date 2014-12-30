@@ -8,7 +8,7 @@ title: Jaume Teruel
 
 ## Biography
 
-##I was born and grew up in Barcelona. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona.
+I was born and grew up in Barcelona. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona.
 
 ## Social Media Links
 
