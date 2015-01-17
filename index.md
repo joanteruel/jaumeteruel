@@ -2,7 +2,7 @@
 layout: default
 title: Jaume Teruel
 ---
-# Jaume Teruel .com
+# JaumeTeruel .com
 
 ![][1]
 
