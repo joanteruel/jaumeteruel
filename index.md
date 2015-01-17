@@ -2,13 +2,13 @@
 layout: default
 title: Jaume Teruel
 ---
-# Hi, my name is Jaume Teruel.
+# Jaume Teruel .com
 
 ![][1]
 
 ## Biography
 
-I was born and grew up in Barcelona. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona.
+Hi, my name is Jaume Teruel. I was born and grew up in Barcelona. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona.
 
 ## Social Media Links
 
