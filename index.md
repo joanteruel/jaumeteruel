@@ -2,9 +2,8 @@
 layout: default
 title: Jaume Teruel
 ---
-# Hi, my name is Jaume Teruel.
+![][1] # Hi, my name is Jaume Teruel.
 
-![][1]
 
 ## Biography
 
