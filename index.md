@@ -43,7 +43,7 @@ Cousins meeting, 1985.
 Celebrating my first birthday with [Joan Teruel][13], December 1980.
 
 
-   [1]: /images/jaumeteruel_white_square.png
+   [1]: /images/me_big.png
    [2]: http://www.lerion.com
    [3]: http://www.flickr.com/photos/lerion
    [4]: http://twitter.com/jaumeteruel
