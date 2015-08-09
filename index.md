@@ -32,6 +32,9 @@ Cold Christmas, Berlin 2012.
 <iframe src="http://player.vimeo.com/video/48320460?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
 National Parks, Yellowstone 2012.
 
+<iframe src="http://player.vimeo.com/video/49126271?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
+The Windy City, Chicago 2012.
+
 ![][16]
 How to do a handstand, Washington 2012.
 
