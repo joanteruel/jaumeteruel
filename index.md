@@ -16,16 +16,21 @@ You can take a look at my [blog][2], view the [pictures][3] posted on Flickr, vi
 
 By the way, welcome to my personal website.
 
-## Some Pictures of me
-
+## Some Pictures & Videos of me
 <iframe src="http://player.vimeo.com/video/126745084?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
+Heineken Roeivienkamp Regatta, Amsterdam 2015.
+
+<iframe src="http://player.vimeo.com/video/92330874?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
 Head of the River Race, London 2014.
 
-![][15]
-Ergometer Championship, Barcelona 2013.
+<iframe src="http://player.vimeo.com/video/75295857?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
+East Coast, Boston & New York 2013.
 
-![][9]
-First baseball game at Wrigley Field, Chicago 2012.
+<iframe src="http://player.vimeo.com/video/55182694?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
+Cold Christmas, Berlin 2012.
+
+<iframe src="http://player.vimeo.com/video/48320460?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
+National Parks, Yellowstone 2012.
 
 ![][16]
 How to do a handstand, Washington 2012.
