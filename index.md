@@ -18,7 +18,7 @@ By the way, welcome to my personal website.
 
 ## Some Pictures of me
 
-![][8]
+<iframe src="http://player.vimeo.com/video/126745084?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
 Head of the River Race, London 2014.
 
 ![][15]
