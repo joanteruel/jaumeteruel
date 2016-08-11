@@ -18,6 +18,9 @@ By the way, welcome to my personal website.
 
 ## Some Pictures & Videos of me
 <iframe src="http://player.vimeo.com/video/126745084?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
+Rowing Championship training, Banyoles 2016.
+
+<iframe src="http://player.vimeo.com/video/126745084?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
 Heineken Roeivienkamp Regatta, Amsterdam 2015.
 
 <iframe src="http://player.vimeo.com/video/92330874?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
