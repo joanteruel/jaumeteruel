@@ -17,7 +17,7 @@ You can take a look at my [blog][2], view the [pictures][3] posted on Flickr, vi
 By the way, welcome to my personal website.  
 
 
-   [1]: /images/me.png
+   [1]: /images/jaumeteruel_white_square.png
    [2]: http://www.lerion.com
    [3]: http://www.flickr.com/photos/lerion
    [4]: http://twitter.com/jaumeteruel
