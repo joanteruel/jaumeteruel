@@ -6,11 +6,11 @@ title: Jaume Teruel
 
 ![][1]  
 
-## Biography
+## # Biography
 
 I was born and grew up in Barcelona. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona.  
 
-## Social Media Links
+## # Social Media Links
 
 You can take a look at my [blog][2], view the [pictures][3] posted on Flickr, visit my [tweets][4], browse my [videos][5] or add my [linkedin][7] account where you can get an idea of my professional background. And if you have any questions or suggestions, please send it to the following address: jaume [at] jaumeteruel [dot] com  
 
