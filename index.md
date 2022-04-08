@@ -8,7 +8,7 @@ title: Jaume Teruel
 
 ## # Biography
 
-Besides my passion for clycling and rowing, I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona. I grew up and live in [Badalona][8], a little and beautiful town on the north coast of [Barcelona][9].  
+Besides my passion for cycling and rowing, I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona. I grew up and live in [Badalona][8], a little and beautiful town on the north coast of [Barcelona][9].  
 
 ## # Social Media Links
 
