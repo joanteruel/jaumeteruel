@@ -12,7 +12,7 @@ Besides my passion for cycling and rowing, I am MSc in Mechanical Engineering an
 
 ## # Social Media Links
 
-You can take a look at my [blog][2] that I share with [Joan][7], view the [pictures][3] posted on Flickr, browse my [videos][4], follow my [Strava][8] activities or add my [linkedin][5] account where you can get an idea of my hobbies or professional background. And if you have any questions or suggestions, please send it to the following address: jaume [at] jaumeteruel [dot] com  
+You can take a look at my [blog][2] that I share with [Joan][7], view the [pictures][3] posted on Flickr, browse my [videos][4], follow my [strava][8] activities or add my [linkedin][5] account where you can get an idea of my hobbies or professional background. And if you have any questions or suggestions, please send it to the following address: jaume [at] jaumeteruel [dot] com  
 
 By the way, welcome to my personal website.  
 
