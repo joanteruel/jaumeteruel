@@ -17,7 +17,7 @@ You can take a look at [lerion][2], a personal domanin that I share with [Joan][
 By the way, welcome to my personal website.  
 
 
-   [1]: /images/jaumeteruel_white_square.png
+   [1]: /images/jaumeteruel_square.png
    [2]: http://www.lerion.com
    [3]: http://www.flickr.com/photos/lerion
    [4]: http://www.vimeo.com/lerion/videos
