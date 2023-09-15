@@ -8,7 +8,7 @@ title: Jaume Teruel
 
 ## # Biography
 
-Besides my passion for cycling and rowing, I am MSc in Mechanical Engineering and Executive MBA. I grew up and live in [Badalona][6], a beautiful city on the north coast of Barcelona.  
+Besides my passion for cycling and rowing, I am MSc in Mechanical Engineering and Executive MBA. I grew up and live in [Badalona][6], a beautiful city on the north coast of Barcelona.
 
 ## # Social Media Links
 
