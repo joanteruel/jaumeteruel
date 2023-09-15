@@ -8,11 +8,11 @@ title: Jaume Teruel
 
 ## # Biography
 
-Besides my passion for cycling and rowing, I am MSc in Mechanical Engineering and Executive MBA. I grew up and live in [Badalona][6], a beautiful city on the north coast of Barcelona.
+Besides my passion for cycling and rowing, I hold an MSc in Mechanical Engineering and Executive MBA. I currently live in [Badalona][6], a coastal city located on the north of Barcelona.
 
 ## # Social Media Links
 
-You can take a look at [lerion][2], a personal domanin that I share with [Joan][7], view the [pictures][3] posted on Flickr, browse my [videos][4], follow my [strava][8] activities or add my [linkedin][5] account where you can get an idea of my hobbies and professional background. And if you have any questions or suggestions, please send it to the following address: jaume [at] jaumeteruel [dot] com  
+You can take a look at my posted [pictures][3] on Flickr, browse my [videos][4], follow my [strava][8] activities, or add my [linkedin][5] account to get an idea of my hobbies and professional background. If you have any questions or suggestions, please send them to the following address: jaume [at] jaumeteruel [dot] com  
 
 By the way, welcome to my personal website.  
 
