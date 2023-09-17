@@ -8,7 +8,7 @@ title: Jaume Teruel
 
 ## # Biography
 
-I am an Engineer and Consultant with experience in leading teams and technological projects. Currently, I reside in [Badalona][6], a coastal city to the north of Barcelona. Here, I find the balance between my passion for technology and the enjoyment of sports, such as rowing and cycling.
+I am an engineer and consultant with experience in leading teams and technological projects. Currently, I reside in [Badalona][6], a coastal city to the north of Barcelona. Here, I find the balance between my passion for technology and the enjoyment of sports, such as rowing and cycling.
 
 ## # Social Media Links
 
