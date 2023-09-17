@@ -12,7 +12,7 @@ I am an Engineer and Consultant with experience in leading teams and technologic
 
 ## # Social Media Links
 
-You can take a look at my posted [pictures][3] on Instagram, follow my [strava][8] activities, or add my [linkedin][5] account to gain a better understanding of my hobbies and professional background. If you have any questions or suggestions, please send them to the following address: jaume [at] jaumeteruel [dot] com  
+You can take a look at my posted pictures on [instagram][3], follow my [strava][8] activities, or add my [linkedin][5] account to gain a better understanding of my hobbies and professional background. If you have any questions or suggestions, please send them to the following address: jaume [at] jaumeteruel [dot] com  
 
 By the way, welcome to my personal website.  
 
