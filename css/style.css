@@ -5,6 +5,15 @@ body {
 	font-size: 18px;
 	}
 
+body.theme-light {
+	background-color:#fff;
+	color:#222
+	}
+
+body.theme-dark {
+	background-color:#1e1e1e;
+	color:#dadada
+	}
 
 a:link, a:visited {
 	text-decoration: underline;
