@@ -20,7 +20,7 @@ By the way, welcome to my personal website.
    [1]: /images/jaumeteruel_square.png
    [2]: http://www.lerion.com
    [3]: http://www.instagram.com/jaumeteruel
-   [4]: http://www.vimeo.com/lerion/videos
+   [4]: https://www.vimeo.com/lerion
    [5]: http://es.linkedin.com/in/jaumeteruel
    [6]: https://en.wikipedia.org/wiki/Badalona
    [7]: http://joanteruel.com
