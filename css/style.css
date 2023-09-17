@@ -20,7 +20,7 @@ a:hover, a:active, a:focus  {
 
 
 article {
-	width: 720px;
+	max-width: 720px;
 	padding: 30px;
 	margin: 0 auto;
 	}
