@@ -2,6 +2,7 @@ body {
 	font-family: courier;
 	margin: 0;
 	padding: 0;
+	font-size: 18px;
 	}
 
 
@@ -19,8 +20,7 @@ a:hover, a:active, a:focus  {
 
 
 article {
-	max-width: 720px;
-	min-width: 350px;
+	width: 720px;
 	padding: 30px;
 	margin: 0 auto;
 	}
@@ -41,6 +41,7 @@ h1 {
 h2 {
 	margin-top: 1em;
 	margin-bottom: 0.6em;
+	font-size: 1.3em;
 	}
 
 	
