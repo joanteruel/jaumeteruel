@@ -14,10 +14,10 @@ I am an engineer and consultant with experience in leading teams and technologic
 
 You can find me on:
 
-[Instagram][3] and [Flickr][9] for my photos.
-[Vimeo][4] for my videos.
-[Strava][8] for my workouts and activities.
-[LinkedIn][5] for my professional background.
+1. [Instagram][3] and [Flickr][9] for my photos.
+1. [Vimeo][4] for my videos.
+1. [Strava][8] for my workouts and activities.
+1. [LinkedIn][5] for my professional background.
 
 If you have any questions or suggestions, please email me at: jaume [at] jaumeteruel [dot] com.
 
