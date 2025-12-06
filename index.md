@@ -12,14 +12,7 @@ I am an engineer and consultant with experience in leading teams and technologic
 
 ## # Social Media Links
 
-You can find me on:
-
-1. [Instagram][3] and [Flickr][9] for my photos.
-1. [Vimeo][4] for my videos.
-1. [Strava][8] for my workouts and activities.
-1. [LinkedIn][5] for my professional background.
-
-If you have any questions or suggestions, please email me at: jaume [at] jaumeteruel [dot] com.
+You can take a look at my posted pictures on [instagram][3] and [flickr][9], watch my videos on [vimeo][4], follow my [strava][8] activities, or connect with my [linkedin][5] account to gain a better understanding of my hobbies and professional background. If you have any questions or suggestions, please send them to the following address: jaume [at] jaumeteruel [dot] com
 
 By the way, welcome to my [lerion][2] personal website.
 
