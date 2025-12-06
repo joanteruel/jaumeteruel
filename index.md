@@ -2,7 +2,7 @@
 layout: default
 title: Jaume Teruel
 ---
-# Hi, my name is Jaume Teruel.
+# Jaume Teruel
 
 ![][1]
 
