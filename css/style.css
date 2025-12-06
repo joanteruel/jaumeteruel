@@ -11,8 +11,7 @@
 }
 
 body {
-	font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco,
-               "Liberation Mono", "DejaVu Sans Mono", monospace;
+	font-family: courier;
 	margin: 0;
 	padding: 0;
 	font-size: 18px;
@@ -74,7 +73,15 @@ img {
 	}
 
 
+ul {
+	list-style-type: disc;    /* vuelve a activar los bullets */
+	padding-left: 1.4em;      /* desplaza un poco hacia la derecha */
+	margin-bottom: 1.2em;     /* añade espacio después de la lista */
+	}
+
 li {
 	line-height: 1.6em;
+	margin-bottom: 0.2em;     /* un pelín de espacio entre elementos */
 	}
+
 
