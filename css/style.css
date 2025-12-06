@@ -77,4 +77,15 @@ li {
 	line-height: 1.6em;
 	}
 
+article p:last-of-type::after {
+	content: "_";
+	font-weight: bold;
+	display: inline-block;
+	margin-left: 2px;
+	animation: blink 1s steps(2, start) infinite;
+	}
+
+@keyframes blink {
+	to { opacity: 0; }
+	}
 
