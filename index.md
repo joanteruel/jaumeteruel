@@ -19,6 +19,7 @@ You can find me on:
 - [Strava][8] for my workouts and activities
 - [LinkedIn][5] for my professional background
 
+
 If you have any questions or suggestions, please email me at: jaume [at] jaumeteruel [dot] com.
 
 By the way, welcome to my [lerion][2] personal website.
