@@ -74,18 +74,5 @@ li {
 	line-height: 1.6em;
 	}
 
-/* Cursor parpadeante al final del texto final */
-
-article p:last-of-type::after {
-	content: "_";
-	font-weight: bold;
-	display: inline-block;
-	margin-left: 4px;
-	animation: blink 1s steps(2, start) infinite;
-	}
-
-@keyframes blink {
-	to { opacity: 0; }
-	}
 
 
