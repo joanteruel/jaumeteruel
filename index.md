@@ -16,10 +16,10 @@ You can take a look at my posted pictures on [instagram][3] and [flickr][9], wat
 
 ## # Stuff of the Moment
 
-os: [arch linux][20]
-apps: [home assistant][21], [obsidian][22]
-book: the intelligent investor — benjamin graham
-game: [hollow knight: silksong][24]
+os: [arch linux][20]  
+apps: [home assistant][21], [obsidian][22]  
+book: the intelligent investor — benjamin graham  
+game: [hollow knight: silksong][24]  
 music: [moth to a flame][26] — swedish house mafia & the weeknd
 
 By the way, welcome to my [lerion][2] personal website.
