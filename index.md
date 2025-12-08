@@ -12,15 +12,15 @@ I am an engineer and consultant with experience in leading teams and technologic
 
 ## # Social Media Links
 
-You can take a look at my posted pictures on [instagram][3] and [flickr][9], watch my videos on [vimeo][4], follow my [strava][8] activities, or connect with my [linkedin][5] account to gain a better understanding of my hobbies and professional background. If you have any questions or suggestions, please send them to the following address: jaume [at] jaumeteruel [dot] com
+You can take a look at my posted pictures on [instagram][3] and [flickr][9], watch my videos on [vimeo][4], follow my [strava][8] activities, or connect with my [linkedin][5] account to gain a better understanding of my hobbies and professional background. If you have any questions or suggestions, please send them to the following address: jaume [at] jaumeteruel [dot] com.
 
 ## # Now
 
-> > os: [arch linux][20]  
-> apps: [home assistant][21], [obsidian][22]  
-> book: [*mistborn* — brandon sanderson][23]  
-> game: [hollow knight: silksong][24]  
-> gadget: [unifi u6+][25]
+os: [arch linux][20]  
+apps: [home assistant][21], [obsidian][22]  
+book: [*mistborn* — brandon sanderson][23]  
+game: [hollow knight: silksong][24]  
+gadget: [unifi u6+][25]
 
 By the way, welcome to my [lerion][2] personal website.
 
