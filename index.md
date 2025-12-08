@@ -20,7 +20,6 @@ os: [arch linux][20]
 apps: [obsidian][22] & [home assistant][21]  
 book: the intelligent investor — benjamin graham  
 game: [silksong][24]  
-music: [moth to a flame][26] — swedish house mafia & the weeknd
 
 By the way, welcome to my [lerion][2] personal website.
 
@@ -39,5 +38,4 @@ By the way, welcome to my [lerion][2] personal website.
    [22]: https://obsidian.md
    [23]: https://www.brandonsanderson.com/mistborn/
    [24]: https://www.hollowknightsilksong.com/
-   [25]: https://store.ui.com/us/en/products/u6plus
-   [26]: https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr?si=fmdhgZ4GQ4q6v-79Zaa9og
+   
