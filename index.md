@@ -17,7 +17,7 @@ You can take a look at my posted pictures on [instagram][3] and [flickr][9], wat
 ## # Current Setup
 
 os: [arch linux][20]  
-apps: [home assistant][21] & [obsidian][22]  
+apps: [obsidian][22] & [home assistant][21]  
 book: the intelligent investor — benjamin graham  
 game: [silksong][24]  
 music: [moth to a flame][26] — swedish house mafia & the weeknd
