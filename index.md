@@ -40,4 +40,4 @@ By the way, welcome to my [lerion][2] personal website.
    [23]: https://www.brandonsanderson.com/mistborn/
    [24]: https://www.hollowknightsilksong.com/
    [25]: https://store.ui.com/us/en/products/u6plus
-   [26]: https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl
+   [26]: https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr?si=fmdhgZ4GQ4q6v-79Zaa9og
