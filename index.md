@@ -16,12 +16,11 @@ You can take a look at my posted pictures on [instagram][3] and [flickr][9], wat
 
 ## # Now
 
-> os: [arch linux](https://archlinux.org)  
-> apps: [home assistant](https://www.home-assistant.io), [obsidian](https://obsidian.md)  
-> book: [*mistborn* — brandon sanderson](https://www.brandonsanderson.com/mistborn/)  
-> game: [hollow knight: silksong](https://www.hollowknightsilksong.com/)
-
-> gadget: [unifi u6+](https://store.ui.com/us/en/products/u6plus)
+> > os: [arch linux][20]  
+> apps: [home assistant][21], [obsidian][22]  
+> book: [*mistborn* — brandon sanderson][23]  
+> game: [hollow knight: silksong][24]  
+> gadget: [unifi u6+][25]
 
 By the way, welcome to my [lerion][2] personal website.
 
@@ -35,3 +34,9 @@ By the way, welcome to my [lerion][2] personal website.
    [7]: https://joanteruel.com
    [8]: https://www.strava.com/athletes/61838131
    [9]: https://www.flickr.com/photos/lerion/
+   [20]: https://archlinux.org
+   [21]: https://www.home-assistant.io
+   [22]: https://obsidian.md
+   [23]: https://www.brandonsanderson.com/mistborn/
+   [24]: https://www.hollowknightsilksong.com/
+   [25]: https://store.ui.com/us/en/products/u6plus
